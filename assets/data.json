@@ -1,0 +1,5355 @@
+{
+  "workouts": {
+    "achilles": {
+      "name": "Achilles",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "17-24 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/achilles.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            }
+          ]
+        ]
+      }
+    },
+    "adonis": {
+      "name": "Adonis",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "points": 440,
+      "picture": "assets/images/adonis.jpg",
+      "time": "15-20 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "agon": {
+      "name": "Agon",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "points": 400,
+      "time": "5-7 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "picture": "assets/images/agon.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "hangingLegRaises",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "aias": {
+      "name": "Aias",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "3-6 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 650,
+      "picture": "assets/images/aias.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "muscleups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "oneHandedPushups",
+              "repetition": 14
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 21
+            }
+          ]
+        ]
+      }
+    },
+    "amazona": {
+      "name": "Amazona",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "11-15 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 400,
+      "picture": "assets/images/amazona.jpg",
+      "sets": {
+        "numberOfSet": 2,
+        "exercises": [
+          [
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "cossackSquats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "reverseLunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "plankLegLifts",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "anubis": {
+      "name": "Anubis",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [],
+      "time": "32-37 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 320,
+      "distance": "6 km",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "1,5 km Run",
+              "repetition": 1,
+              "distance": 1500
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "800 m Run",
+              "repetition": 1,
+              "distance": 800
+            },
+            {
+              "exerciseName": "4 min Rest",
+              "restTime": 240
+            }
+          ],
+          [
+            {
+              "exerciseName": "1 km Run",
+              "repetition": 1,
+              "distance": 1000
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            }
+          ]
+        ]
+      }
+    },
+    "amun": {
+      "name": "Amun",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [],
+      "time": "39-46 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 480,
+      "distance": "6 km",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "1,5 km Run",
+              "repetition": 1,
+              "distance": 1500
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ]
+        ]
+      }
+    },
+    "aphrodite": {
+      "name": "Aphrodite",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "23-30 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Buste",
+        "Bas du corps"
+      ],
+      "points": 500,
+      "picture": "assets/images/aphrodite.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 50
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "apollon": {
+      "name": "Apollon",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "14-17 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 525,
+      "distance": "400 m",
+      "picture": "assets/images/apollon.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "400 m Sprint",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "90s Rest",
+              "restTime": 90
+            }
+          ]
+        ]
+      }
+    },
+    "arachne": {
+      "name": "Arachne",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "9-13 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 440,
+      "picture": "assets/images/arachne.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "spidermanPushups",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "plankSwitches",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "ares": {
+      "name": "Ares",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "9-12 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 345,
+      "distance": "80 m",
+      "picture": "assets/images/ares.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "2x40m Sprint",
+              "repetition": 1,
+              "distance": 80
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "artemis": {
+      "name": "Artemis",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "24-34 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 525,
+      "picture": "assets/images/artemis.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 100
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 150
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            }
+          ]
+        ]
+      }
+    },
+    "atalanta": {
+      "name": "Atalanta",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "26-31 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 525,
+      "distance": "400 m",
+      "picture": "assets/images/atalanta.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "400m Sprint",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "180s Rest",
+              "restTime": 180
+            }
+          ]
+        ]
+      }
+    },
+    "athena": {
+      "name": "Athena",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "8-10 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Buste",
+        "Bas du corps"
+      ],
+      "points": 550,
+      "distance": "2 km",
+      "picture": "assets/images/athena.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "2000m Run",
+              "repetition": 1,
+              "distance": 2000
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "atropos": {
+      "name": "Atropos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "11-14 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Buste",
+        "Bas du corps"
+      ],
+      "points": 360,
+      "picture": "assets/images/atropos.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "atlas": {
+      "name": "Atlas",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "distance": "2 km",
+      "time": "21-26 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Buste",
+        "Bas du corps"
+      ],
+      "points": 550,
+      "picture": "assets/images/atlas.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "2000m Run",
+              "repetition": 1,
+              "distance": 2000
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "aura": {
+      "name": "Aura",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "4-5 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps"
+      ],
+      "points": 360,
+      "picture": "assets/images/aura.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "bastet": {
+      "name": "Bastet",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [],
+      "time": "28-30 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 128,
+      "distance": "1,6 km",
+      "sets": {
+        "numberOfSet": 7,
+        "exercises": [
+          [
+            {
+              "exerciseName": "100m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "400m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "200m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "400m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "200m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100m Run",
+              "repetition": 1,
+              "distance": 100
+            }
+          ]
+        ]
+      }
+    },
+    "charon": {
+      "name": "Charon",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "16-20 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/charon.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            }
+          ]
+        ]
+      }
+    },
+    "chimera": {
+      "name": "Chimera",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "16-20 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 540,
+      "picture": "assets/images/chimera.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "assistedLegRaises",
+              "repetition": 35
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "assistedLegRaises",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 35
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "assistedLegRaises",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 30
+            }
+          ]
+        ]
+      }
+    },
+    "deino": {
+      "name": "Deino",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Corde à sauter",
+        "Mur"
+      ],
+      "time": "6-8 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Haut"
+      ],
+      "points": 400,
+      "picture": "assets/images/deino.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "singleUnder",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "handstandHold",
+              "time": 30
+            }
+          ]
+        ]
+      }
+    },
+    "demeter": {
+      "name": "Demeter",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "11-15 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/demeter.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "plankSwitches",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 30
+            }
+          ]
+        ]
+      }
+    },
+    "dione": {
+      "name": "Dione",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "29-39 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Buste"
+      ],
+      "points": 500,
+      "picture": "assets/images/dione.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 75
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 75
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            }
+          ]
+        ]
+      }
+    },
+    "dionysus": {
+      "name": "Dionysus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "7-10 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Haut",
+        "Buste"
+      ],
+      "points": 450,
+      "picture": "assets/images/dionysus.jpg",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "toeTouchCrunches",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "backExtensions",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pikes",
+              "repetition": 8
+            }
+          ]
+        ]
+      }
+    },
+    "echo": {
+      "name": "Echo",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "7-10 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 300,
+      "picture": "assets/images/echo.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "sprawls",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "sprawls",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "sprawls",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "elektra": {
+      "name": "Elektra",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Mur"
+      ],
+      "time": "5-8 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "picture": "assets/images/elektra.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 9
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 18
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 12
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 3
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 6
+            }
+          ]
+        ]
+      }
+    },
+    "empousa": {
+      "name": "Empousa",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "12-17 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Buste",
+        "Bas du corps"
+      ],
+      "points": 450,
+      "picture": "assets/images/empousa.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "plankShoulderTaps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "kneeJumps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "jackknives",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "enyo": {
+      "name": "Enyo",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Corde à sauter",
+        "Mur"
+      ],
+      "time": "7-10 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Haut"
+      ],
+      "points": 500,
+      "picture": "assets/images/enyo.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "alternatingLegsWithJumpRope",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "cossackSquats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "shoulderTaps",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "erebos": {
+      "name": "Erebos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "21-27 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "picture": "assets/images/erebos.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "passiveHang",
+              "time": 60
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "splitLunges",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            }
+          ]
+        ]
+      }
+    },
+    "eris": {
+      "name": "Eris",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Mur"
+      ],
+      "time": "7-11 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "picture": "assets/images/eris.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "gaia": {
+      "name": "Gaia",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "20-26 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 600,
+      "picture": "assets/images/gaia.jpg",
+      "sets": {
+        "numberOfSet": 10,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "standups",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "hades": {
+      "name": "Hades",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "21-29 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 425,
+      "distance": "80 m",
+      "picture": "assets/images/hades.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "2x40m Sprint",
+              "distance": 80,
+              "repetition": 1
+            }
+          ]
+        ]
+      }
+    },
+    "hestia": {
+      "name": "Hestia",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "7-10 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 330,
+      "picture": "assets/images/hestia.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "sprawls",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "hekate": {
+      "name": "Hekate",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "4-6 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 475,
+      "picture": "assets/images/hekate.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 16
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 16
+            }
+          ],
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 12
+            }
+          ],
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 8
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 8
+            }
+          ],
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 6
+            }
+          ],
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 4
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 4
+            }
+          ]
+        ]
+      }
+    },
+    "helios": {
+      "name": "Helios",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "37-49 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 625,
+      "picture": "assets/images/helios.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 100
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 125
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 125
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 125
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 150
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 125
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "herakles": {
+      "name": "Herakles",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "7-9 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Haut"
+      ],
+      "points": 390,
+      "picture": "assets/images/herakles.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "commandoPullupsLeft",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "straightBarDips",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "commandoPullupsRight",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "hermes": {
+      "name": "Hermes",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "12-15 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 480,
+      "picture": "assets/images/hermes.jpg",
+      "distance": "40 m",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "2x20m Sprint",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            },
+            {
+              "exerciseName": "2x20m Sprint",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            },
+            {
+              "exerciseName": "2x20m Sprint",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "horus": {
+      "name": "Horus",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues",
+      "equipment": [
+      ],
+      "time": "37-43 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 424,
+      "distance": "5,3 km",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "3 km Run",
+              "distance": 3000,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "800 m Run",
+              "distance": 800,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "1,5 km Run",
+              "distance": 1500,
+              "repetition": 1
+            }
+          ]
+        ]
+      }
+    },
+    "kadmos": {
+      "name": "Kadmos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "9-11 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 480,
+      "picture": "assets/images/kadmos.jpg",
+      "distance": "40 m",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "2x20m Sprint",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "kallisto": {
+      "name": "Kallisto",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "13-18 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 450,
+      "picture": "assets/images/kallisto.jpg",
+      "distance": "40 m",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "bearWalk",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "scissorKicks",
+              "repetition": 16
+            },
+            {
+              "exerciseName": "broadJumps",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "scissorKicks",
+              "repetition": 16
+            },
+            {
+              "exerciseName": "crabWalk",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "scissorKicks",
+              "repetition": 16
+            }
+          ]
+        ]
+      }
+    },
+    "kentauros": {
+      "name": "Kentauros",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "21-30 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 605,
+      "picture": "assets/images/kentauros.jpg",
+      "distance": "20 m",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "plankHold",
+              "repetition": 1,
+              "time": 60
+            },
+            {
+              "exerciseName": "plankSwitches",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "plankHold",
+              "repetition": 1,
+              "time": 120
+            },
+            {
+              "exerciseName": "plankSwitches",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "plankHold",
+              "repetition": 1,
+              "time": 180
+            },
+            {
+              "exerciseName": "plankSwitches",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            }
+          ]
+        ]
+      }
+    },
+    "kerberos": {
+      "name": "Kerberos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "10-12 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 480,
+      "picture": "assets/images/kerberos.jpg",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "lungeWalk",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "burpeeFrogs",
+              "distance": 40,
+              "repetition": 1
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "kratos": {
+      "name": "Kratos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Mur"
+      ],
+      "time": "11-16 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Bas du corps",
+        "Haut"
+      ],
+      "points": 600,
+      "picture": "assets/images/kratos.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "wallWalks",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "wallSit",
+              "repetition": 1,
+              "time": 60
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "wallWalks",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "wallSit",
+              "repetition": 1,
+              "time": 60
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "wallWalks",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "wallSit",
+              "repetition": 1,
+              "time": 60
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "krios": {
+      "name": "Krios",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "7-10 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 375,
+      "picture": "assets/images/krios.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 25
+            }
+          ],
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "kronos": {
+      "name": "Kronos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "39-53 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 640,
+      "picture": "assets/images/kronos.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 100
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 200
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 300
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 200
+            },
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "kyklops": {
+      "name": "Kyklops",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "15-20 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/kyklops.jpg",
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 100
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "maat": {
+      "name": "Maat",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [],
+      "time": "14-17 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 160,
+      "distance": "2 km",
+      "sets": {
+        "numberOfSet": 10,
+        "exercises": [
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            }
+          ]
+        ]
+      }
+    },
+    "mania": {
+      "name": "Mania",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "10-13 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 420,
+      "picture": "assets/images/mania.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "spidermanPushups",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 18
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 18
+            }
+          ]
+        ]
+      }
+    },
+    "medusa": {
+      "name": "Medusa",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Mur"
+      ],
+      "time": "11-15 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "picture": "assets/images/medusa.jpg",
+      "sets": {
+        "numberOfSet": 10,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 3
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 9
+            }
+          ]
+        ]
+      }
+    },
+    "metis": {
+      "name": "Metis",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "6-8 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 325,
+      "picture": "assets/images/metis.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 25
+            }
+          ],
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "minotauros": {
+      "name": "Minotauros",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "15-20 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "distance": "20 m",
+      "picture": "assets/images/minotauros.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "highKnees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "lungeWalk",
+              "repetition": 1,
+              "distance": 40
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "morpheus": {
+      "name": "Morpheus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "6-9 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 240,
+      "picture": "assets/images/morpheus.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "nemesis": {
+      "name": "Nemesis",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "7-9 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 270,
+      "picture": "assets/images/nemesis.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "crunches",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "crunches",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "crunches",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "crunches",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 40
+            }
+          ],
+          [
+            {
+              "exerciseName": "crunches",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 50
+            }
+          ]
+        ]
+      }
+    },
+    "nyx": {
+      "name": "Nyx",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "7-10 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 275,
+      "picture": "assets/images/nyx.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "standups",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "situps",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "standups",
+              "repetition": 25
+            }
+          ],
+          [
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "standups",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "ocnus": {
+      "name": "Ocnus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Corde à sauter"
+      ],
+      "time": "14-19 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 450,
+      "picture": "assets/images/ocnus.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "singleUnder",
+              "repetition": 100
+            },
+            {
+              "exerciseName": "plankShoulderTaps",
+              "repetition": 60
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "sprawls",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "odysseus": {
+      "name": "Odysseus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [],
+      "time": "27-34 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "distance": "40 m",
+      "picture": "assets/images/odysseus.jpg",
+      "sets": {
+        "numberOfSet": 10,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "lungeWalk",
+              "repetition": 1,
+              "distance": 40
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "2x20m Sprint",
+              "repetition": 1,
+              "distance": 40
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "orion": {
+      "name": "Orion",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "10-15 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 525,
+      "picture": "assets/images/orion.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 12
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 16
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 14
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 18
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 8
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 14
+            }
+          ],
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 4
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 8
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "orpheus": {
+      "name": "Orpheus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "10-13 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 400,
+      "picture": "assets/images/orpheus.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "sprawls",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "passiveHang",
+              "repetition": 1,
+              "time": 30
+            }
+          ]
+        ]
+      }
+    },
+    "osiris": {
+      "name": "Osiris",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "51-56 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 400,
+      "distance": "5 km",
+      "sets": {
+        "numberOfSet": 11,
+        "exercises": [
+          [
+            {
+              "exerciseName": "3 km Run",
+              "repetition": 1,
+              "distance": 3000
+            },
+            {
+              "exerciseName": "10 min Rest",
+              "restTime": 600
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            }
+          ]
+        ]
+      }
+    },
+    "pallas": {
+      "name": "Pallas",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "18-26 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Haut",
+        "Buste"
+      ],
+      "points": 600,
+      "picture": "assets/images/pallas.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "plankShoulderTaps",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "burpeeToesToBar",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "plankShoulderTaps",
+              "repetition": 60
+            },
+            {
+              "exerciseName": "burpeePullups",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "plankShoulderTaps",
+              "repetition": 90
+            },
+            {
+              "exerciseName": "burpeeMuscleups",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "pandora": {
+      "name": "Pandora",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "14-18 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Haut",
+        "Buste"
+      ],
+      "points": 500,
+      "picture": "assets/images/pandora.jpg",
+      "sets": {
+        "numberOfSet": 10,
+        "exercises": [
+          [
+            {
+              "exerciseName": "hollowBodyHold",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "diamondPushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "reverseCrunches",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "pegasos": {
+      "name": "Pegasos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction",
+        "Mur"
+      ],
+      "time": "12-18 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Haut",
+        "Buste"
+      ],
+      "points": 660,
+      "picture": "assets/images/pegasos.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 14
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 21
+            }
+          ]
+        ]
+      }
+    },
+    "pemphredo": {
+      "name": "Pemphredo",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Corde à sauter"
+      ],
+      "time": "9-15 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Haut",
+        "Bas du corps"
+      ],
+      "points": 600,
+      "distance": "10 m",
+      "picture": "assets/images/pemphredo.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "doubleUnders",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "handstandWalk",
+              "repetition": 1,
+              "distance": 10
+            }
+          ]
+        ]
+      }
+    },
+    "persephone": {
+      "name": "Persephone",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "11-14 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 310,
+      "picture": "assets/images/persephone.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "lunges",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "30s Rest",
+              "repetition": 1,
+              "restTime": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "20s Rest",
+              "repetition": 1,
+              "restTime": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "lunges",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "legRaises",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "perseus": {
+      "name": "Perseus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "7-10 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 400,
+      "picture": "assets/images/perseus.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictPullups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "sphinxPushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 40
+            }
+          ]
+        ]
+      }
+    },
+    "poseidon": {
+      "name": "Poseidon",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "7-11 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Haut"
+      ],
+      "points": 365,
+      "picture": "assets/images/poseidon.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 15
+            }
+          ],
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            }
+          ],
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 5
+            }
+          ]
+        ]
+      }
+    },
+    "prometheus": {
+      "name": "Prometheus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "16-21 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 370,
+      "picture": "assets/images/prometheus.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "climbers",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "30s Rest",
+              "repetition": 1,
+              "restTime": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "climbers",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "30s Rest",
+              "repetition": 1,
+              "restTime": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "climbers",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "30s Rest",
+              "repetition": 1,
+              "restTime": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "climbers",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 7
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "30s Rest",
+              "repetition": 1,
+              "restTime": 30
+            }
+          ],
+          [
+            {
+              "exerciseName": "climbers",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            }
+          ]
+        ]
+      }
+    },
+    "ra": {
+      "name": "Ra",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "53-63 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 480,
+      "distance": "6 km",
+      "sets": {
+        "numberOfSet": 15,
+        "exercises": [
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ]
+        ]
+      }
+    },
+    "rhea": {
+      "name": "Rhea",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "3-5 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Bas du corps",
+        "Buste"
+      ],
+      "points": 300,
+      "picture": "assets/images/rhea.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "highKnees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            }
+          ],
+          [
+            {
+              "exerciseName": "highKnees",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 15
+            }
+          ],
+          [
+            {
+              "exerciseName": "highKnees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "selene": {
+      "name": "Selene",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "19-25 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/selene.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "lunges",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "seth": {
+      "name": "Seth",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "15-17 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 64,
+      "distance": "800 m",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "4 min Rest",
+              "restTime": 240
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            }
+          ]
+        ]
+      }
+    },
+    "shu": {
+      "name": "Shu",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "55-64 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 720,
+      "distance": "9 km",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "3 km Run",
+              "repetition": 1,
+              "distance": 3000
+            },
+            {
+              "exerciseName": "4 min Rest",
+              "restTime": 240
+            }
+          ]
+        ]
+      }
+    },
+    "skylla": {
+      "name": "Skylla",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "9-13 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 400,
+      "picture": "assets/images/skylla.jpg",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 15
+            }
+          ]
+        ]
+      }
+    },
+    "sphinx": {
+      "name": "Sphinx",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "56-63 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 496,
+      "distance": "6,2 km",
+      "sets": {
+        "numberOfSet": 14,
+        "exercises": [
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "1,5 km Run",
+              "repetition": 1,
+              "distance": 1500
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "1,5 km Run",
+              "repetition": 1,
+              "distance": 1500
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            }
+          ]
+        ]
+      }
+    },
+    "styx": {
+      "name": "Styx",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "17-20 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 400,
+      "picture": "assets/images/styx.jpg",
+      "sets": {
+        "numberOfSet": 2,
+        "exercises": [
+          [
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "60s Rest",
+              "repetition": 1,
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "tantalus": {
+      "name": "Tantalus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "12-16 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 600,
+      "picture": "assets/images/tantalus.jpg",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "chestToBarPullups",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "archerPushups",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "strictToesToBar",
+              "repetition": 6
+            },
+            {
+              "exerciseName": "pistolSquats",
+              "repetition": 6
+            }
+          ]
+        ]
+      }
+    },
+    "thalassa": {
+      "name": "Thalassa",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "23-26 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 450,
+      "picture": "assets/images/thalassa.jpg",
+      "sets": {
+        "numberOfSet": 3,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "assistedLegRaises",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 20
+            }
+          ]
+        ]
+      }
+    },
+    "thanatos": {
+      "name": "Thanatos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "18-23 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 505,
+      "picture": "assets/images/thanatos.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            },
+            {
+              "exerciseName": "standups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 15
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 25
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "theseus": {
+      "name": "Theseus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "9-11 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 400,
+      "picture": "assets/images/theseus.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "clappingPushups",
+              "repetition": 5
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "mountainClimbers",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ]
+        ]
+      }
+    },
+    "thoth": {
+      "name": "Thoth",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "46-50 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 320,
+      "distance": "4 km",
+      "sets": {
+        "numberOfSet": 16,
+        "exercises": [
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            },
+            {
+              "exerciseName": "3 min Rest",
+              "restTime": 180
+            }
+          ],
+          [
+            {
+              "exerciseName": "100 m Run",
+              "repetition": 1,
+              "distance": 100
+            },
+            {
+              "exerciseName": "60s Rest",
+              "restTime": 60
+            }
+          ],
+          [
+            {
+              "exerciseName": "400 m Run",
+              "repetition": 1,
+              "distance": 400
+            }
+          ]
+        ]
+      }
+    },
+    "typhon": {
+      "name": "Typhon",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "11-14 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 420,
+      "picture": "assets/images/typhon.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "squatJumps",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "20s Rest",
+              "restTime": 20
+            },
+            {
+              "exerciseName": "highKnees",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "30s Rest",
+              "restTime": 30
+            }
+          ]
+        ]
+      }
+    },
+    "uranos": {
+      "name": "Uranos",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction"
+      ],
+      "time": "26-34 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "distance": "assets/images/uranos.jpg",
+      "points": 565,
+      "sets": {
+        "numberOfSet": 1,
+        "exercises": [
+          [
+            {
+              "exerciseName": "2km Run",
+              "repetition": 1,
+              "distance": 2000
+            },
+            {
+              "exerciseName": "burpees",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "climbers",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "jumps",
+              "repetition": 100
+            }
+          ]
+        ]
+      }
+    },
+    "venus": {
+      "name": "Venus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "18-25 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 525,
+      "picture": "assets/images/venus.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "pushups",
+              "repetition": 50
+            },
+            {
+              "exerciseName": "crunches",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 50
+            }
+          ]
+        ]
+      }
+    },
+    "xenia": {
+      "name": "Xenia",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+      ],
+      "time": "14-19 min",
+      "level": "Débutant",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 420,
+      "picture": "assets/images/xenia.jpg",
+      "sets": {
+        "numberOfSet": 6,
+        "exercises": [
+          [
+            {
+              "exerciseName": "jumpingJacks",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "plankLegLifts",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 10
+            }
+          ]
+        ]
+      }
+    },
+    "xerxes": {
+      "name": "Xerxes",
+      "description": "C'est un contre-la-montre. Courez à une allure maximale avec pour objectif d'effectuer la totalité du workout en utilisant uniquement les pauses prévues.",
+      "equipment": [
+      ],
+      "time": "23-25 min",
+      "level": "Intermédiaire",
+      "targetMuscles": [
+        "Jambes"
+      ],
+      "points": 320,
+      "distance": "1,8 km",
+      "sets": {
+        "numberOfSet": 5,
+        "exercises": [
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "1 km Run",
+              "repetition": 1,
+              "distance": 1000
+            },
+            {
+              "exerciseName": "5 min Rest",
+              "restTime": 300
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            },
+            {
+              "exerciseName": "120s Rest",
+              "restTime": 120
+            }
+          ],
+          [
+            {
+              "exerciseName": "200 m Run",
+              "repetition": 1,
+              "distance": 200
+            }
+          ]
+        ]
+      }
+    },
+    "zeus": {
+      "name": "Zeus",
+      "description": "Un workout exclusif de Freeletics. C'est un contre-la-montre. Efforcez-vous d'effectuer ce workout aussi vite que possible tout en conservant une bonne technique. Le temps qu'il vous faudra pour en venir à bout peut vous informer sur l'évolution de votre forme physique.",
+      "equipment": [
+        "Barre de traction",
+        "Mur"
+      ],
+      "time": "26-37 min",
+      "level": "Avancé",
+      "targetMuscles": [
+        "Corps entier"
+      ],
+      "points": 575,
+      "picture": "assets/images/zeus.jpg",
+      "sets": {
+        "numberOfSet": 4,
+        "exercises": [
+          [
+            {
+              "exerciseName": "strictHandstandPushups",
+              "repetition": 10
+            },
+            {
+              "exerciseName": "kippingPullup",
+              "repetition": 20
+            },
+            {
+              "exerciseName": "pushups",
+              "repetition": 30
+            },
+            {
+              "exerciseName": "situps",
+              "repetition": 40
+            },
+            {
+              "exerciseName": "squats",
+              "repetition": 50
+            }
+          ]
+        ]
+      }
+    }
+  },
+  "exercises": {
+    "kippingPullup": {
+      "name": "Pullups",
+      "videos": "kippingPullup"
+    },
+    "burpees": {
+      "name": "Burpees",
+      "videos": "burpees"
+    },
+    "squats": {
+      "name": "Squats",
+      "videos": "squats"
+    },
+    "splitLunges": {
+      "name": "Split Lunges",
+      "videos": "splitLunges"
+    },
+    "crunches": {
+      "name": "Crunches",
+      "videos": "crunches"
+    },
+    "pushups": {
+      "name": "Pushups",
+      "videos": "pushups"
+    },
+    "muscleups": {
+      "name": "Muscleups",
+      "videos": "muscleups"
+    },
+    "oneHandedPushups": {
+      "name": "One Handed Pushups",
+      "videos": "oneHandedPushups"
+    },
+    "hangingLegRaises": {
+      "name": "Hanging Leg Raises",
+      "videos": "hangingLegRaises"
+    },
+    "strictToesToBar": {
+      "name": "Strict Toes-to-Bar",
+      "videos": "strictToesToBar"
+    },
+    "lunges": {
+      "name": "Lunges",
+      "videos": "lunges"
+    },
+    "cossackSquats": {
+      "name": "Cossack Squats",
+      "videos": "cossackSquats"
+    },
+    "reverseLunges": {
+      "name": "Reverse Lunges",
+      "videos": "reverseLunges"
+    },
+    "squatJumps": {
+      "name": "Squat Jumps",
+      "videos": "squatJumps"
+    },
+    "plankLegLifts": {
+      "name": "Plank Leg Lifts",
+      "videos": "plankLegLifts"
+    },
+    "situps": {
+      "name": "Situps",
+      "videos": "situps"
+    },
+    "spidermanPushups": {
+      "name": "Spiderman Pushups",
+      "videos": "spidermanPushups"
+    },
+    "plankSwitches": {
+      "name": "Plank Switches",
+      "videos": "plankSwitches"
+    },
+    "climbers": {
+      "name": "Climbers",
+      "videos": "climbers"
+    },
+    "legRaises": {
+      "name": "Leg Raises",
+      "videos": "legRaises"
+    },
+    "jumps": {
+      "name": "Jumps",
+      "videos": "jumps"
+    },
+    "highKnees": {
+      "name": "High Knees",
+      "videos": "highKnees"
+    },
+    "strictPullups": {
+      "name": "Strict Pullups",
+      "videos": "strictPullups"
+    },
+    "handstandHold": {
+      "name": "Handstand Hold",
+      "videos": "handstandHold"
+    },
+    "mountainClimbers": {
+      "name": "Mountain Climbers",
+      "videos": "mountainClimbers"
+    },
+    "jumpingJacks": {
+      "name": "Jumping Jacks",
+      "videos": "jumpingJacks"
+    },
+    "toeTouchCrunches": {
+      "name": "Toe-Touch Crunches",
+      "videos": "toeTouchCrunches"
+    },
+    "backExtensions": {
+      "name": "Back Extensions",
+      "videos": "backExtensions"
+    },
+    "pikes": {
+      "name": "Pikes",
+      "videos": "pikes"
+    },
+    "sprawls": {
+      "name": "Sprawls",
+      "videos": "sprawls"
+    },
+    "strictHandstandPushups": {
+      "name": "Strict Handstand Pushups",
+      "videos": "strictHandstandPushups"
+    },
+    "pistolSquats": {
+      "name": "Pistol Squats",
+      "videos": "pistolSquats"
+    },
+    "plankShoulderTaps": {
+      "name": "Plank Shoulder Taps",
+      "videos": "plankShoulderTaps"
+    },
+    "kneeJumps": {
+      "name": "Knee Jumps",
+      "videos": "kneeJumps"
+    },
+    "jackknives": {
+      "name": "Jackknives",
+      "videos": "jackknives"
+    },
+    "alternatingLegsWithJumpRope": {
+      "name": "Alternating Legs with Jump Rope",
+      "videos": "alternatingLegsWithJumpRope"
+    },
+    "shoulderTaps": {
+      "name": "Shoulder Taps",
+      "videos": "shoulderTaps"
+    },
+    "passiveHang": {
+      "name": "Passive Hang",
+      "videos": "passiveHang"
+    },
+    "standups": {
+      "name": "Standups",
+      "videos": "standups"
+    },
+    "clappingPushups": {
+      "name": "Clapping Pushups",
+      "videos": "clappingPushups"
+    },
+    "commandoPullupsLeft": {
+      "name": "Commando Pullups Left",
+      "videos": "commandoPullups"
+    },
+    "run": {
+      "name": "Run",
+      "videos": "run"
+    },
+    "commandoPullupsRight": {
+      "name": "Commando Pullups Right",
+      "videos": "commandoPullups"
+    },
+    "straightBarDips": {
+      "name": "Straight Bar Dips",
+      "videos": "straightBarDips"
+    },
+    "bearWalk": {
+      "name": "Bear Walk",
+      "videos": "bearWalk"
+    },
+    "scissorKicks": {
+      "name": "Scissor Kicks",
+      "videos": "scissorKicks"
+    },
+    "broadJumps": {
+      "name": "Broad Jumps",
+      "videos": "broadJumps"
+    },
+    "crabWalk": {
+      "name": "crab Walk",
+      "videos": "crabWalk"
+    },
+    "lungeWalk": {
+      "name": "Lunge Walk",
+      "videos": "lungeWalk"
+    },
+    "burpeeFrogs": {
+      "name": "Burpee Frogs",
+      "videos": "burpeeFrogs"
+    },
+    "wallWalks": {
+      "name": "Wall Walks",
+      "videos": "wallWalks"
+    },
+    "singleUnder": {
+      "name": "Single Unders with Jump Rope",
+      "videos": "singleUnder"
+    },
+    "burpeeToesToBar": {
+      "name": "Burpee Toes-to-Bar",
+      "videos": "burpeeToesToBar"
+    },
+    "burpeePullups": {
+      "name": "Burpee Pullups",
+      "videos": "burpeePullups"
+    },
+    "burpeeMuscleups": {
+      "name": "Burpee Muscleups",
+      "videos": "burpeeMuscleups"
+    },
+    "hollowBodyHold": {
+      "name": "Hollow Body Hold",
+      "videos": "hollowBodyHold"
+    },
+    "plankHold": {
+      "name": "Plank Hold",
+      "videos": "plankHold"
+    },
+    "wallSit": {
+      "name": "Wall Sit",
+      "videos": "wallSit"
+    },
+    "diamondPushups": {
+      "name": "diamondPushups",
+      "videos": "diamondPushups"
+    },
+    "reverseCrunches": {
+      "name": "Revese Crunches",
+      "videos": "reverseCrunches"
+    },
+    "doubleUnders": {
+      "name": "Double Unders with Jump Rope",
+      "videos": "doubleUnders"
+    },
+    "handstandWalk": {
+      "name": "Handstand Walk",
+      "videos": "handstandWalk"
+    },
+    "sphinxPushups": {
+      "name": "Sphinx Pushups",
+      "videos": "sphinxPushups"
+    },
+    "chestToBarPullups": {
+      "name": "Chest-to-Bar Pullups",
+      "videos": "chestToBarPullups"
+    },
+    "archerPushups": {
+      "name": "Archer Pushups",
+      "videos": "archerPushups"
+    },
+    "assistedLegRaises": {
+      "name": "Assisted Leg Raises",
+      "videos": "assistedLegRaises"
+    }
+  },
+  "videos": {
+    "kippingPullup": {
+      "name": "KIPPING_PULLUP",
+      "links": {
+        "cam_a": "assets/videos/KIPPING_PULLUP/KIPPING_PULLUP_CAM_A.mp4",
+        "cam_b": "assets/videos/KIPPING_PULLUP/KIPPING_PULLUP_CAM_B.mp4",
+        "cam_c": "assets/videos/KIPPING_PULLUP/KIPPING_PULLUP_CAM_C.mp4"
+      }
+    },
+    "burpees": {
+      "name": "BURPEES",
+      "links": {
+        "cam_a": "assets/videos/BURPEES/BURPEE_CAM_A.mp4",
+        "cam_b": "assets/videos/BURPEES/BURPEE_CAM_B.mp4",
+        "cam_c": "assets/videos/BURPEES/BURPEE_CAM_C.mp4"
+      }
+    },
+    "squats": {
+      "name": "SQUATS",
+      "links": {
+        "cam_a": "assets/videos/SQUATS/SQUAT_CAM_A.mp4",
+        "cam_b": "assets/videos/SQUATS/SQUAT_CAM_B.mp4",
+        "cam_c": "assets/videos/SQUATS/SQUAT_CAM_C.mp4"
+      }
+    },
+    "sitLunges": {
+      "name": "SPLIT_LUNGE",
+      "links": {
+        "cam_a": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_A.mp4",
+        "cam_b": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_B.mp4",
+        "cam_c": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_C.mp4"
+      }
+    },
+    "crunches": {
+      "name": "CRUNCH",
+      "links": {
+        "cam_a": "assets/videos/CRUNCH/CRUNCH_CAM_A.mp4",
+        "cam_b": "assets/videos/CRUNCH/CRUNCH_CAM_B.mp4",
+        "cam_c": "assets/videos/CRUNCH/CRUNCH_CAM_C.mp4"
+      }
+    },
+    "pushups": {
+      "name": "PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/PUSHUP/PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/PUSHUP/PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/PUSHUP/PUSHUP_CAM_C.mp4"
+      }
+    },
+    "hangingLegRaises": {
+      "name": "HANGING_LEG_RAISE",
+      "links": {
+        "cam_a": "assets/videos/HANGING_LEG_RAISE/HANGING_LEG_RAISE_CAM_A.mp4",
+        "cam_b": "assets/videos/HANGING_LEG_RAISE/HANGING_LEG_RAISE_CAM_B.mp4",
+        "cam_c": "assets/videos/HANGING_LEG_RAISE/HANGING_LEG_RAISE_CAM_C.mp4"
+      }
+    },
+    "muscleups": {
+      "name": "MUSCLEUP",
+      "links": {
+        "cam_a": "assets/videos/MUSCLEUP/MUSCLEUP_CAM_A.mp4",
+        "cam_b": "assets/videos/MUSCLEUP/MUSCLEUP_CAM_B.mp4",
+        "cam_c": "assets/videos/MUSCLEUP/MUSCLEUP_CAM_C.mp4"
+      }
+    },
+    "oneHandedPushups": {
+      "name": "OH_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/OH_PUSHUP/OH_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/OH_PUSHUP/OH_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/OH_PUSHUP/OH_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "strictToesToBar": {
+      "name": "STRICT_TOES-TO-BAR",
+      "links": {
+        "cam_a": "assets/videos/STRICT_TOES-TO-BAR/STRICT_TOES-TO-BAR_CAM_A.mp4",
+        "cam_b": "assets/videos/STRICT_TOES-TO-BAR/STRICT_TOES-TO-BAR_CAM_B.mp4"
+      }
+    },
+    "lunges": {
+      "name": "LUNGE",
+      "links": {
+        "cam_a": "assets/videos/LUNGE/LUNGE_CAM_A.mp4",
+        "cam_b": "assets/videos/LUNGE/LUNGE_CAM_B.mp4",
+        "cam_c": "assets/videos/LUNGE/LUNGE_CAM_C.mp4"
+      }
+    },
+    "cossackSquats": {
+      "name": "COSSACK_SQUAT",
+      "links": {
+        "cam_a": "assets/videos/COSSACK_SQUAT/COSSACK_SQUAT_CAM_A.mp4",
+        "cam_b": "assets/videos/COSSACK_SQUAT/COSSACK_SQUAT_CAM_B.mp4",
+        "cam_c": "assets/videos/COSSACK_SQUAT/COSSACK_SQUAT_CAM_C.mp4"
+      }
+    },
+    "reverseLunges": {
+      "name": "REVERSE_LUNGE",
+      "links": {
+        "cam_a": "assets/videos/REVERSE_LUNGE/REVERSE_LUNGE_CAM_A.mp4",
+        "cam_b": "assets/videos/REVERSE_LUNGE/REVERSE_LUNGE_CAM_B.mp4"
+      }
+    },
+    "squatJumps": {
+      "name": "SQUAT_JUMP",
+      "links": {
+        "cam_a": "assets/videos/SQUAT_JUMP/SQUAT_JUMP_CAM_A.mp4",
+        "cam_b": "assets/videos/SQUAT_JUMP/SQUAT_JUMP_CAM_B.mp4",
+        "cam_c": "assets/videos/SQUAT_JUMP/SQUAT_JUMP_CAM_C.mp4"
+      }
+    },
+    "plankLegLifts": {
+      "name": "PLANK_LEG_LIFT",
+      "links": {
+        "cam_a": "assets/videos/PLANK_LEG_LIFT/PLANK_LEG_LIFT_CAM_A.mp4",
+        "cam_b": "assets/videos/PLANK_LEG_LIFT/PLANK_LEG_LIFT_CAM_B.mp4"
+      }
+    },
+    "situps": {
+      "name": "SITUP",
+      "links": {
+        "cam_a": "assets/videos/SITUP/SITUP_CAM_A.mp4",
+        "cam_b": "assets/videos/SITUP/SITUP_CAM_B.mp4"
+      }
+    },
+    "spidermanPushups": {
+      "name": "SPIDERMAN_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/SPIDERMAN_PUSHUP/SPIDERMAN_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/SPIDERMAN_PUSHUP/SPIDERMAN_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/SPIDERMAN_PUSHUP/SPIDERMAN_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "plankSwitches": {
+      "name": "PLANK_SWITCH",
+      "links": {
+        "cam_a": "assets/videos/PLANK_SWITCH/PLANK_SWITCH_CAM_A.mp4",
+        "cam_b": "assets/videos/PLANK_SWITCH/PLANK_SWITCH_CAM_B.mp4",
+        "cam_c": "assets/videos/PLANK_SWITCH/PLANK_SWITCH_CAM_C.mp4"
+      }
+    },
+    "climbers": {
+      "name": "CLIMBERS",
+      "links": {
+        "cam_a": "assets/videos/CLIMBERS/CLIMBERS_CAM_A.mp4",
+        "cam_b": "assets/videos/CLIMBERS/CLIMBERS_CAM_B.mp4",
+        "cam_c": "assets/videos/CLIMBERS/CLIMBERS_CAM_C.mp4"
+      }
+    },
+    "legRaises": {
+      "name": "LEG_RAISE",
+      "links": {
+        "cam_a": "assets/videos/LEG_RAISE/LEG_RAISE_CAM_A.mp4",
+        "cam_b": "assets/videos/LEG_RAISE/LEG_RAISE_CAM_B.mp4",
+        "cam_c": "assets/videos/LEG_RAISE/LEG_RAISE_CAM_C.mp4"
+      }
+    },
+    "jumps": {
+      "name": "JUMP",
+      "links": {
+        "cam_a": "assets/videos/JUMP/JUMP_CAM_A.mp4",
+        "cam_b": "assets/videos/JUMP/JUMP_CAM_B.mp4",
+        "cam_c": "assets/videos/JUMP/JUMP_CAM_C.mp4"
+      }
+    },
+    "highKnees": {
+      "name": "HIGH_KNEES",
+      "links": {
+        "cam_a": "assets/videos/HIGH_KNEES/HIGH_KNEES_CAM_A.mp4",
+        "cam_b": "assets/videos/HIGH_KNEES/HIGH_KNEES_CAM_B.mp4",
+        "cam_c": "assets/videos/HIGH_KNEES/HIGH_KNEES_CAM_C.mp4"
+      }
+    },
+    "strictPullups": {
+      "name": "STRICT_PULLUP",
+      "links": {
+        "cam_a": "assets/videos/STRICT_PULLUP/STRICT_PULLUP_CAM_A.mp4",
+        "cam_b": "assets/videos/STRICT_PULLUP/STRICT_PULLUP_CAM_B.mp4",
+        "cam_c": "assets/videos/STRICT_PULLUP/STRICT_PULLUP_CAM_C.mp4"
+      }
+    },
+    "assistedLegRaises": {
+      "name": "ASSISTED_LEG_RAISE",
+      "links": {
+        "cam_a": "assets/videos/ASSISTED_LEG_RAISE/ASSISTED_LEG_RAISE_CAM_A.mp4",
+        "cam_b": "assets/videos/ASSISTED_LEG_RAISE/ASSISTED_LEG_RAISE_CAM_B.mp4"
+      }
+    },
+    "jumpingJacks": {
+      "name": "JUMPING_JACK",
+      "links": {
+        "cam_a": "assets/videos/JUMPING_JACK/JUMPING_JACK_CAM_A.mp4",
+        "cam_b": "assets/videos/JUMPING_JACK/JUMPING_JACK_CAM_B.mp4",
+        "cam_c": "assets/videos/JUMPING_JACK/JUMPING_JACK_CAM_C.mp4"
+      }
+    },
+    "singleUnder": {
+      "name": "SINGLE_UNDER",
+      "links": {
+        "cam_a": "assets/videos/SINGLE_UNDER/SINGLE_UNDER_CAM_A.mp4",
+        "cam_b": "assets/videos/SINGLE_UNDER/SINGLE_UNDER_CAM_B.mp4",
+        "cam_c": "assets/videos/SINGLE_UNDER/SINGLE_UNDER_CAM_C.mp4"
+      }
+    },
+    "handstandHold": {
+      "name": "HANDSTAND_HOLD",
+      "links": {
+        "cam_a": "assets/videos/HANDSTAND_HOLD/HANDSTAND_HOLD_CAM_A.mp4",
+        "cam_b": "assets/videos/HANDSTAND_HOLD/HANDSTAND_HOLD_CAM_B.mp4",
+        "cam_c": "assets/videos/HANDSTAND_HOLD/HANDSTAND_HOLD_CAM_C.mp4"
+      }
+    },
+    "toeTouchCrunches": {
+      "name": "TOE_TOUCH_CRUNCH",
+      "links": {
+        "cam_a": "assets/videos/TOE_TOUCH_CRUNCH/TOE_TOUCH_CRUNCH_CAM_A.mp4",
+        "cam_b": "assets/videos/TOE_TOUCH_CRUNCH/TOE_TOUCH_CRUNCH_CAM_B.mp4",
+        "cam_c": "assets/videos/TOE_TOUCH_CRUNCH/TOE_TOUCH_CRUNCH_CAM_C.mp4"
+      }
+    },
+    "splitLunges": {
+      "name": "SPLIT_LUNGE",
+      "links": {
+        "cam_a": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_A.mp4",
+        "cam_b": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_B.mp4",
+        "cam_c": "assets/videos/SPLIT_LUNGE/SPLIT_LUNGE_CAM_C.mp4"
+      }
+    },
+    "mountainClimbers": {
+      "name": "MOUNTAIN_CLIMBER",
+      "links": {
+        "cam_a": "assets/videos/MOUNTAIN_CLIMBER/MOUNTAIN_CLIMBER_CAM_A.mp4",
+        "cam_b": "assets/videos/MOUNTAIN_CLIMBER/MOUNTAIN_CLIMBER_CAM_B.mp4"
+      }
+    },
+    "backExtensions": {
+      "name": "BACK_EXTENSION",
+      "links": {
+        "cam_a": "assets/videos/BACK_EXTENSION/BACK_EXTENSION_CAM_A.mp4",
+        "cam_b": "assets/videos/BACK_EXTENSION/BACK_EXTENSION_CAM_B.mp4"
+      }
+    },
+    "pikes": {
+      "name": "PIKE",
+      "links": {
+        "cam_a": "assets/videos/PIKE/PIKE_CAM_A.mp4",
+        "cam_b": "assets/videos/PIKE/PIKE_CAM_B.mp4",
+        "cam_c": "assets/videos/PIKE/PIKE_CAM_C.mp4"
+      }
+    },
+    "sprawls": {
+      "name": "SPRAWL",
+      "links": {
+        "cam_a": "assets/videos/SPRAWL/SPRAWL_CAM_A.mp4",
+        "cam_b": "assets/videos/SPRAWL/SPRAWL_CAM_B.mp4",
+        "cam_c": "assets/videos/SPRAWL/SPRAWL_CAM_C.mp4"
+      }
+    },
+    "strictHandstandPushups": {
+      "name": "STRICT_HANDSTAND_PUSHUPS",
+      "links": {
+        "cam_a": "assets/videos/STRICT_HANDSTAND_PUSHUPS/STRICT_HANDSTAND_PUSHUPS_CAM_A.mp4",
+        "cam_b": "assets/videos/STRICT_HANDSTAND_PUSHUPS/STRICT_HANDSTAND_PUSHUPS_CAM_B.mp4",
+        "cam_c": "assets/videos/STRICT_HANDSTAND_PUSHUPS/STRICT_HANDSTAND_PUSHUPS_CAM_C.mp4"
+      }
+    },
+    "pistolSquats": {
+      "name": "PISTOLS",
+      "links": {
+        "cam_a": "assets/videos/PISTOLS/PISTOLS_CAM_A.mp4",
+        "cam_b": "assets/videos/PISTOLS/PISTOLS_CAM_B.mp4",
+        "cam_c": "assets/videos/PISTOLS/PISTOLS_CAM_C.mp4"
+      }
+    },
+    "plankShoulderTaps": {
+      "name": "PLANK_SHOULDER_TAPS",
+      "links": {
+        "cam_a": "assets/videos/PLANK_SHOULDER_TAPS/PLANK_SHOULDER_TAPS_CAM_A.mp4",
+        "cam_b": "assets/videos/PLANK_SHOULDER_TAPS/PLANK_SHOULDER_TAPS_CAM_B.mp4",
+        "cam_c": "assets/videos/PLANK_SHOULDER_TAPS/PLANK_SHOULDER_TAPS_CAM_C.mp4"
+      }
+    },
+    "kneeJumps": {
+      "name": "KNEE_JUMP",
+      "links": {
+        "cam_a": "assets/videos/KNEE_JUMP/KNEE_JUMP_CAM_A.mp4",
+        "cam_b": "assets/videos/KNEE_JUMP/KNEE_JUMP_CAM_B.mp4",
+        "cam_c": "assets/videos/KNEE_JUMP/KNEE_JUMP_CAM_C.mp4"
+      }
+    },
+    "jackknives": {
+      "name": "JACKKNIFE",
+      "links": {
+        "cam_a": "assets/videos/JACKKNIFE/JACKKNIFE_CAM_A.mp4",
+        "cam_b": "assets/videos/JACKKNIFE/JACKKNIFE_CAM_B.mp4"
+      }
+    },
+    "alternatingLegsWithJumpRope": {
+      "name": "ALTERNATING_LEGS",
+      "links": {
+        "cam_a": "assets/videos/ALTERNATING_LEGS/ALTERNATING_LEGS_CAM_A.mp4",
+        "cam_b": "assets/videos/ALTERNATING_LEGS/ALTERNATING_LEGS_CAM_B.mp4",
+        "cam_c": "assets/videos/ALTERNATING_LEGS/ALTERNATING_LEGS_CAM_C.mp4"
+      }
+    },
+    "shoulderTaps": {
+      "name": "SHOULDER_TAP",
+      "links": {
+        "cam_a": "assets/videos/SHOULDER_TAP/SHOULDER_TAP_CAM_A.mp4",
+        "cam_b": "assets/videos/SHOULDER_TAP/SHOULDER_TAP_CAM_B.mp4",
+        "cam_c": "assets/videos/SHOULDER_TAP/SHOULDER_TAP_CAM_C.mp4"
+      }
+    },
+    "passiveHang": {
+      "name": "PASSIVE_HANG",
+      "links": {
+        "cam_a": "assets/videos/PASSIVE_HANG/PASSIVE_HANG_CAM_A.mp4",
+        "cam_b": "assets/videos/PASSIVE_HANG/PASSIVE_HANG_CAM_B.mp4",
+        "cam_c": "assets/videos/PASSIVE_HANG/PASSIVE_HANG_CAM_C.mp4"
+      }
+    },
+    "standups": {
+      "name": "STANDUP",
+      "links": {
+        "cam_a": "assets/videos/STANDUP/STANDUP_CAM_A.mp4",
+        "cam_b": "assets/videos/STANDUP/STANDUP_CAM_B.mp4",
+        "cam_c": "assets/videos/STANDUP/STANDUP_CAM_C.mp4"
+      }
+    },
+    "clappingPushups": {
+      "name": "CLAPPING_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/CLAPPING_PUSHUP/CLAPPING_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/CLAPPING_PUSHUP/CLAPPING_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/CLAPPING_PUSHUP/CLAPPING_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "commandoPullups": {
+      "name": "COMMANDO_PULLUPS",
+      "links": {
+        "cam_a": "assets/videos/COMMANDO_PULLUPS/COMMANDO_PULLUPS_CAM_A.mp4",
+        "cam_b": "assets/videos/COMMANDO_PULLUPS/COMMANDO_PULLUPS_CAM_B.mp4",
+        "cam_c": "assets/videos/COMMANDO_PULLUPS/COMMANDO_PULLUPS_CAM_C.mp4"
+      }
+    },
+    "straightBarDips": {
+      "name": "STRAIGHT_BAR_DIP",
+      "links": {
+        "cam_a": "assets/videos/STRAIGHT_BAR_DIP/STRAIGHT_BAR_DIP_CAM_A.mp4",
+        "cam_b": "assets/videos/STRAIGHT_BAR_DIP/STRAIGHT_BAR_DIP_CAM_B.mp4",
+        "cam_c": "assets/videos/STRAIGHT_BAR_DIP/STRAIGHT_BAR_DIP_CAM_C.mp4"
+      }
+    },
+    "bearWalk": {
+      "name": "BEAR_WALK",
+      "links": {
+        "cam_a": "assets/videos/BEAR_WALK/BEAR_WALK_CAM_A.mp4",
+        "cam_b": "assets/videos/BEAR_WALK/BEAR_WALK_CAM_B.mp4",
+        "cam_c": "assets/videos/BEAR_WALK/BEAR_WALK_CAM_C.mp4"
+      }
+    },
+    "scissorKicks": {
+      "name": "SCISSOR_KICK",
+      "links": {
+        "cam_a": "assets/videos/SCISSOR_KICK/SCISSOR_KICK_CAM_A.mp4",
+        "cam_b": "assets/videos/SCISSOR_KICK/SCISSOR_KICK_CAM_B.mp4",
+        "cam_c": "assets/videos/SCISSOR_KICK/SCISSOR_KICK_CAM_C.mp4"
+      }
+    },
+    "broadJumps": {
+      "name": "BROAD_JUMP",
+      "links": {
+        "cam_a": "assets/videos/BROAD_JUMP/BROAD_JUMP_CAM_A.mp4",
+        "cam_b": "assets/videos/BROAD_JUMP/BROAD_JUMP_CAM_B.mp4",
+        "cam_c": "assets/videos/BROAD_JUMP/BROAD_JUMP_CAM_C.mp4"
+      }
+    },
+    "crabWalk": {
+      "name": "CRAB_WALK",
+      "links": {
+        "cam_a": "assets/videos/CRAB_WALK/CRAB_WALK_CAM_A.mp4",
+        "cam_b": "assets/videos/CRAB_WALK/CRAB_WALK_CAM_B.mp4"
+      }
+    },
+    "lungeWalk": {
+      "name": "LUNGE_WALK",
+      "links": {
+        "cam_a": "assets/videos/LUNGE_WALK/LUNGE_WALK_CAM_A.mp4",
+        "cam_b": "assets/videos/LUNGE_WALK/LUNGE_WALK_CAM_B.mp4",
+        "cam_c": "assets/videos/LUNGE_WALK/LUNGE_WALK_CAM_C.mp4"
+      }
+    },
+    "burpeeFrogs": {
+      "name": "BURPEE_FROG",
+      "links": {
+        "cam_a": "assets/videos/BURPEE_FROG/BURPEE_FROG_CAM_A.mp4",
+        "cam_b": "assets/videos/BURPEE_FROG/BURPEE_FROG_CAM_B.mp4"
+      }
+    },
+    "wallWalks": {
+      "name": "WALL_WALK",
+      "links": {
+        "cam_a": "assets/videos/WALL_WALK/WALL_WALK_CAM_A.mp4",
+        "cam_b": "assets/videos/WALL_WALK/WALL_WALK_CAM_B.mp4",
+        "cam_c": "assets/videos/WALL_WALK/WALL_WALK_CAM_C.mp4"
+      }
+    },
+    "wallSit": {
+      "name": "WALL_SIT",
+      "links": {
+        "cam_a": "assets/videos/WALL_SIT/WALL_SIT_CAM_A.mp4",
+        "cam_b": "assets/videos/WALL_SIT/WALL_SIT_CAM_B.mp4",
+        "cam_c": "assets/videos/WALL_SIT/WALL_SIT_CAM_C.mp4"
+      }
+    },
+    "burpeeToesToBar": {
+      "name": "BURPEE_TOES_TO_BAR",
+      "links": {
+        "cam_a": "assets/videos/BURPEE_TOES_TO_BAR/BURPEE_TOES_TO_BAR_CAM_A.mp4",
+        "cam_b": "assets/videos/BURPEE_TOES_TO_BAR/BURPEE_TOES_TO_BAR_CAM_B.mp4",
+        "cam_c": "assets/videos/BURPEE_TOES_TO_BAR/BURPEE_TOES_TO_BAR_CAM_C.mp4"
+      }
+    },
+    "burpeePullups": {
+      "name": "BURPEE_PULLUP",
+      "links": {
+        "cam_a": "assets/videos/BURPEE_PULLUP/BURPEE_PULLUP_CAM_A.mp4",
+        "cam_b": "assets/videos/BURPEE_PULLUP/BURPEE_PULLUP_CAM_B.mp4",
+        "cam_c": "assets/videos/BURPEE_PULLUP/BURPEE_PULLUP_CAM_C.mp4"
+      }
+    },
+    "burpeeMuscleups": {
+      "name": "BURPEE_MUSCLEUP",
+      "links": {
+        "cam_a": "assets/videos/BURPEE_MUSCLEUP/BURPEE_MUSCLEUP_CAM_A.mp4",
+        "cam_b": "assets/videos/BURPEE_MUSCLEUP/BURPEE_MUSCLEUP_CAM_B.mp4",
+        "cam_c": "assets/videos/BURPEE_MUSCLEUP/BURPEE_MUSCLEUP_CAM_C.mp4"
+      }
+    },
+    "hollowBodyHold": {
+      "name": "HOLLOW_HOLD",
+      "links": {
+        "cam_a": "assets/videos/HOLLOW_HOLD/HOLLOW_HOLD_CAM_A.mp4",
+        "cam_b": "assets/videos/HOLLOW_HOLD/HOLLOW_HOLD_CAM_B.mp4"
+      }
+    },
+    "diamondPushups": {
+      "name": "DIAMOND_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/DIAMOND_PUSHUP/DIAMOND_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/DIAMOND_PUSHUP/DIAMOND_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/DIAMOND_PUSHUP/DIAMOND_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "reverseCrunches": {
+      "name": "REVERSE_CRUNCH",
+      "links": {
+        "cam_a": "assets/videos/REVERSE_CRUNCH/REVERSE_CRUNCH_CAM_A.mp4",
+        "cam_b": "assets/videos/REVERSE_CRUNCH/REVERSE_CRUNCH_CAM_B.mp4"
+      }
+    },
+    "doubleUnders": {
+      "name": "DOUBLE_UNDER",
+      "links": {
+        "cam_a": "assets/videos/DOUBLE_UNDER/DOUBLE_UNDER_CAM_A.mp4",
+        "cam_b": "assets/videos/DOUBLE_UNDER/DOUBLE_UNDER_CAM_B.mp4",
+        "cam_c": "assets/videos/DOUBLE_UNDER/DOUBLE_UNDER_CAM_C.mp4"
+      }
+    },
+    "handstandWalk": {
+      "name": "HANDSTAND_WALK",
+      "links": {
+        "cam_a": "assets/videos/HANDSTAND_WALK/HANDSTAND_WALK_CAM_A.mp4",
+        "cam_b": "assets/videos/HANDSTAND_WALK/HANDSTAND_WALK_CAM_B.mp4"
+      }
+    },
+    "sphinxPushups": {
+      "name": "SPHINX_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/SPHINX_PUSHUP/SPHINX_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/SPHINX_PUSHUP/SPHINX_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/SPHINX_PUSHUP/SPHINX_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "chestToBarPullups": {
+      "name": "CHEST_TO_BAR_PULLUP",
+      "links": {
+        "cam_a": "assets/videos/CHEST_TO_BAR_PULLUP/CHEST_TO_BAR_PULLUP_CAM_A.mp4",
+        "cam_b": "assets/videos/CHEST_TO_BAR_PULLUP/CHEST_TO_BAR_PULLUP_CAM_B.mp4",
+        "cam_c": "assets/videos/CHEST_TO_BAR_PULLUP/CHEST_TO_BAR_PULLUP_CAM_C.mp4"
+      }
+    },
+    "run": {
+      "name": "RUN",
+      "links": {
+        "cam_a": "assets/videos/RUN/RUN_CAM_A.mp4",
+        "cam_b": "assets/videos/RUN/RUN_CAM_B.mp4"
+      }
+    },
+    "rest": {
+      "name": "REST",
+      "links": {
+        "cam_a": "assets/videos/ARCHER_PUSHUP/ARCHER_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/REST/REST_CAM_A.jpg"
+      }
+    },
+    "archerPushups": {
+      "name": "ARCHER_PUSHUP",
+      "links": {
+        "cam_a": "assets/videos/ARCHER_PUSHUP/ARCHER_PUSHUP_CAM_A.mp4",
+        "cam_b": "assets/videos/ARCHER_PUSHUP/ARCHER_PUSHUP_CAM_B.mp4",
+        "cam_c": "assets/videos/ARCHER_PUSHUP/ARCHER_PUSHUP_CAM_C.mp4"
+      }
+    },
+    "plankHold": {
+      "name": "PLANK_HOLD",
+      "links": {
+        "cam_a": "assets/videos/PLANK_HOLD/PLANK_HOLD_CAM_A.mp4",
+        "cam_b": "assets/videos/PLANK_HOLD/PLANK_HOLD_CAM_B.mp4",
+        "cam_c": "assets/videos/PLANK_HOLD/PLANK_HOLD_CAM_C.mp4"
+      }
+    }
+  }
+}
